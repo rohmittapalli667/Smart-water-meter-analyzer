@@ -62,10 +62,4 @@ We welcome contributions from the open-source community to enhance this project 
 
 We appreciate your time and effort in helping us improve this project!
 
-## Contact Us
 
-If you have any questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
-
-- Tangudu Harsha Vardhan: [[LinkedIn](https://www.linkedin.com/in/harsha-vardhan-tangudu)](https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/)
-
-Let's work together to make a positive impact on water management and conservation!
